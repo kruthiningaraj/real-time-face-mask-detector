@@ -14,7 +14,7 @@ This repository implements a **real-time face mask detection system** developed 
 ---
 
 ## 📂 Dataset:
-We use the **[Face Mask Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)**.
+**[Face Mask Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)**.
 
 Organize as:
 ```
